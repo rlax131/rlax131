@@ -35,6 +35,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 
 👍Projects
+
 harry potter fanpage that I made : http://rlax131.dothome.co.kr/taeyoon/intro.html
 
 design portfolio : https://www.notion.so/731e7f8b2ab44daf863c174c414e7746?pvs=
