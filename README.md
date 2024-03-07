@@ -34,6 +34,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 |2023/11/30 ~ 2023/12/6 | 무장애환경 조성을 위한 베리어프리 메뉴판 제작	| 대학혁신지원사업, 성신여대 |
 
 
-
-
+👍Projects
+harry potter fanpage that I made : http://rlax131.dothome.co.kr/taeyoon/intro.html
+design portfolio : https://www.notion.so/731e7f8b2ab44daf863c174c414e7746?pvs=
 
