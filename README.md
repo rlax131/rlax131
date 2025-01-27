@@ -1,8 +1,9 @@
 ### Hi Welcome, i'm TAEYOON KIM👋
 
 #### UX/UI DESIGNER
-Working on improving myself by exploring new ideas and designing user interfaces for mobile
-and web. Combining my graphic and visual designing skills to create an overall great experience.
+Working on improving myself by 
+exploring new ideas and designing user interfaces for mobile and web. 
+Combining my graphic and visual designing skills to create an overall great experience.
 
 
 🛠️ Stacks
